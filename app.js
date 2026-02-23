@@ -1,4 +1,4 @@
-console.log('Hello World!');
+console.log("Collaboration update by Rusiru Devinda");
 
 const fs = require('fs');
 
@@ -49,7 +49,7 @@ myPromise
     .then(result => console.log(result))
     .catch(error => console.log(error));
 
-    
+
 async function myFunction() {
     try {
         const result = await myPromise;
